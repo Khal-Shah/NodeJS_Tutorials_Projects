@@ -1,0 +1,2 @@
+The content of the two files read via readFile were Hello this is first text file (for fs module)
+undefined
